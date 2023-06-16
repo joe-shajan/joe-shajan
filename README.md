@@ -1,7 +1,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :zap: Open source enthusiast, I contribute to various opensource projects.
+- :zap: Open source enthusiast.
 
 - :seedling: Exploring Web3 and AI.
 
