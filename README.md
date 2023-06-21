@@ -35,9 +35,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joe-shajan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=joe-shajan&style=flat-square&color=blue" alt=""/>
-</div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-shajan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joe's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-shajan&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
